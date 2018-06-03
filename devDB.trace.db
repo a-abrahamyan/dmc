@@ -1,0 +1,6 @@
+2018-03-01 22:10:20 jdbc[7]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "SELECT HIBERNATE_SEQUENCE.NEXTVAL FROM[*] DUAL "; expected "identifier"; SQL statement:
+select hibernate_sequence.nextval from dual [42001-194]
+2018-03-01 22:13:26 jdbc[7]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "SELECT HIBERNATE_SEQUENCE.NEXTVAL FROM[*] DUAL "; expected "identifier"; SQL statement:
+select hibernate_sequence.nextval from dual [42001-194]
